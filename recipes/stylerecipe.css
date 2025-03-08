@@ -1,3 +1,12 @@
 body {
-    background-color: brown;
+    background-color: rgb(158, 114, 101);
+    color: white;
+}
+
+.Recipe-Title{
+    color:rgb(218, 193, 140);
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    text-align: center;
 }
