@@ -1,0 +1,14 @@
+.Recipe-Title{
+    color:rgb(0, 255, 136);
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+body {
+    background-image: url(./img/foodbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
